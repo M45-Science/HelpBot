@@ -1,5 +1,7 @@
 Simple discord bot that automatically replies to some common keywords in questions.
 
+For the source-backed Discord Q&A bot, see [M45 Q&A setup and rollback](https://github.com/M45-Science/m45-discord-qa). The setup below is for the original keyword bot.
+
 Setup:
 
   Enable Message Content Intent under Bot > Privileged Gateway Intents in the
